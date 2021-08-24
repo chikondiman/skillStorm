@@ -39,7 +39,12 @@ public boolean isEmpty() {
 public int peek() {
     return head.data;
 }
-public void add(int data) {}
+public void add(int data) {
+    Node node = new Node(data);
+    if (tail != null) {
+        tail.next = node;
+    }
+}
 public int remove () {}
 }
 

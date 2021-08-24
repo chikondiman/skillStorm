@@ -19,7 +19,7 @@ int countNodes(Node head){
 
 }
 
-//STACKS AND QUEES
+//STACKS AND QUEUES
 
 public static class Queue   {
 

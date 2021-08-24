@@ -48,3 +48,5 @@ public void add(int data) {
 public int remove () {}
 }
 
+
+//STACK 

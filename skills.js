@@ -49,4 +49,4 @@ public int remove () {}
 }
 
 
-//STACK 
+//STACK Add from top remove from top

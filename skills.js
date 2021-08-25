@@ -59,3 +59,5 @@ public int remove () {}
 //Encapsulation: binding variables and methods together
 
 //SQL & Tables
+
+//Tuples is a single role of a table

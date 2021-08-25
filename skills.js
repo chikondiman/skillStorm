@@ -54,3 +54,4 @@ public int remove () {}
 //OOP
 
 //Poly Morphism: performing functions in different ways
+//Inheritance: properties come from pararents to chilren

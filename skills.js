@@ -55,3 +55,4 @@ public int remove () {}
 
 //Poly Morphism: performing functions in different ways
 //Inheritance: properties come from pararents to chilren
+//Abstraction: only certain parts are shwon to user, hiding implementation details

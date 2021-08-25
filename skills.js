@@ -61,3 +61,4 @@ public int remove () {}
 //SQL & Tables
 
 //Tuples is a single role of a table
+//Table constraints to ensure the parameters of the table

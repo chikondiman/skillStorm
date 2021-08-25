@@ -62,3 +62,4 @@ public int remove () {}
 
 //Tuples is a single role of a table
 //Table constraints to ensure the parameters of the table
+//Check, foreign key, index, unit, not null, primary key

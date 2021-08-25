@@ -57,3 +57,5 @@ public int remove () {}
 //Inheritance: properties come from pararents to chilren
 //Abstraction: only certain parts are shwon to user, hiding implementation details
 //Encapsulation: binding variables and methods together
+
+//SQL & Tables

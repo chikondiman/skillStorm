@@ -52,7 +52,14 @@ public int remove () {}
 //STACK Add from top remove from top. pop means delete
 
 //OOP
-
+-Object
+real world entity
+have properties and tasks
+-class 
+Abstraction
+encapsulation
+inheritance
+polymorphism
 //Poly Morphism: performing functions in different ways
 //Inheritance: properties come from pararents to chilren
 //Abstraction: only certain parts are shwon to user, hiding implementation details

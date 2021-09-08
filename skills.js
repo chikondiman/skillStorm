@@ -10,7 +10,7 @@ class Node {
 
 int countNodes(Node head){
 
-    int count = 1;
+    int count = 0;
     Node current = head;
     while (current.next != null) {
         current = current.next;

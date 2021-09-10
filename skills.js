@@ -49,6 +49,11 @@ public int remove () {}
 }
 
 
+object oriented programming
+uses objects and tasks
+
+an object is any real world entity that has properties and values, in addition objects can perform diffrent tasks or functionsd]
+
 //STACK Add from top remove from top. pop means delete
 
 //OOP
@@ -57,12 +62,16 @@ real world entity
 have properties and tasks
 -class 
 Abstraction
-encapsulation
-inheritance
-polymorphism
+abstraction is the process of hiding implementation details from users to make it more user friendly
+encapsulation is binding variables and data types together but is also used to hide sensative information from users or to promoted heightened security in the case of a breach
+inheritance inhertance is one class working with another to distrubute properties and functions. typically you'll have a parent class that passes on properties to child class
+polymorphism is a function that can be executed in multiple ways for example a function called run() could be excuted run slowly, quickly, leisurely and the outcome could be diffenrent 
+
+Function overloading
+In some programming languages, function overloading or method overloading is the ability to create multiple functions of the same name with different implementations. Wikipedia
 //Poly Morphism: performing functions in different ways
-//Inheritance: properties come from pararents to chilren
-//Abstraction: only certain parts are shwon to user, hiding implementation details
+
+only certain parts are shwon to user, hiding implementation details
 //Encapsulation: binding variables and methods together
 
 //SQL & Tables

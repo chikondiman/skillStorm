@@ -23,12 +23,6 @@ int countNodes(Node head){
 
 
 
-
-private Node head; // remove from head
-private Node tail; // add things here 
-public boolean isEmpty() {
-    return head == null;
-}
 public int peek() {
     return head.data;
 }

@@ -49,11 +49,6 @@ public int remove () {}
 }
 
 
-object oriented programming
-uses objects and tasks
-
-an object is any real world entity that has properties and values, in addition objects can perform diffrent tasks or functionsd]
-
 //STACK Add from top remove from top. pop means delete
 
 //OOP

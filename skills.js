@@ -45,8 +45,6 @@ public void add(int data) {
         tail.next = node;
     }
 }
-public int remove () {}
-}
 
 
 

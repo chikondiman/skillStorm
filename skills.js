@@ -21,8 +21,21 @@ int countNodes(Node head){
 
 //STACKS AND QUEUES
 
+public static class Queue   {
 
+private static class Node {
+    private int data;
+    private Node next;
+    private Node (int data {
+        this.data = data;
+    }
+}
 
+private Node head; // remove from head
+private Node tail; // add things here 
+public boolean isEmpty() {
+    return head == null;
+}
 public int peek() {
     return head.data;
 }

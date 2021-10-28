@@ -49,7 +49,6 @@ public int remove () {}
 }
 
 
-//STACK Add from top remove from top. pop means delete
 
 //OOP
 -Object

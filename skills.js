@@ -45,6 +45,8 @@ public void add(int data) {
         tail.next = node;
     }
 }
+public int remove () {}
+}
 
 
 
@@ -68,3 +70,21 @@ only certain parts are shwon to user, hiding implementation details
 
 //SQL & Tables
 
+//Tuples is a single role of a table
+//Table constraints to ensure the parameters of the table
+//Check, foreign key, index, unit, not null, primary key
+
+// Array is a fixed size data structure while ArrayList 
+// is not. One need not to mention the size of Arraylist 
+// while creating its object. Even if we specify some initial
+//  capacity, we can add more elements.
+
+
+// a linked list is a linear collection of data elements 
+// whose order is not given by their physical placement in memory.
+//  Instead, each element points to the next. It is a data structure 
+//  consisting of a collection of nodes which together represent a sequence.
+
+// Big O Notation is a mathematical function used in computer science to 
+// describe an algorithm’s complexity. It is usually a measure of the runtime 
+// required for an algorithm’s execution.

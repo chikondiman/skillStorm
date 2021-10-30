@@ -50,13 +50,6 @@ public int remove () {}
 
 
 
-/-class 
-Abstraction
-abstraction is the process of hiding implementation details from users to make it more user friendly
-encapsulation is binding variables and data types together but is also used to hide sensative information from users or to promoted heightened security in the case of a breach
-inheritance inhertance is one class working with another to distrubute properties and functions. typically you'll have a parent class that passes on properties to child class
-polymorphism is a function that can be executed in multiple ways for example a function called run() could be excuted run slowly, quickly, leisurely and the outcome could be diffenrent 
-
 Function overloading
 In some programming languages, function overloading or method overloading is the ability to create multiple functions of the same name with different implementations. Wikipedia
 //Poly Morphism: performing functions in different ways

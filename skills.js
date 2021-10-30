@@ -50,11 +50,7 @@ public int remove () {}
 
 
 
-//OOP
--Object
-real world entity
-have properties and tasks
--class 
+/-class 
 Abstraction
 abstraction is the process of hiding implementation details from users to make it more user friendly
 encapsulation is binding variables and data types together but is also used to hide sensative information from users or to promoted heightened security in the case of a breach

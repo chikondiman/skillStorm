@@ -59,9 +59,6 @@ only certain parts are shwon to user, hiding implementation details
 
 //SQL & Tables
 
-//Tuples is a single role of a table
-//Table constraints to ensure the parameters of the table
-//Check, foreign key, index, unit, not null, primary key
 
 // Array is a fixed size data structure while ArrayList 
 // is not. One need not to mention the size of Arraylist 

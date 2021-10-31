@@ -62,9 +62,3 @@ only certain parts are shwon to user, hiding implementation details
 
 
 
-
-
-
-// Big O Notation is a mathematical function used in computer science to 
-// describe an algorithm’s complexity. It is usually a measure of the runtime 
-// required for an algorithm’s execution.

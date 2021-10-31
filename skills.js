@@ -60,10 +60,7 @@ only certain parts are shwon to user, hiding implementation details
 //SQL & Tables
 
 
-// Array is a fixed size data structure while ArrayList 
-// is not. One need not to mention the size of Arraylist 
-// while creating its object. Even if we specify some initial
-//  capacity, we can add more elements.
+
 
 
 // a linked list is a linear collection of data elements 

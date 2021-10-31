@@ -63,10 +63,7 @@ only certain parts are shwon to user, hiding implementation details
 
 
 
-// a linked list is a linear collection of data elements 
-// whose order is not given by their physical placement in memory.
-//  Instead, each element points to the next. It is a data structure 
-//  consisting of a collection of nodes which together represent a sequence.
+
 
 // Big O Notation is a mathematical function used in computer science to 
 // describe an algorithm’s complexity. It is usually a measure of the runtime 
